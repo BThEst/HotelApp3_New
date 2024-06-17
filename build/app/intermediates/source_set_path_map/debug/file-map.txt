@@ -1,0 +1,12 @@
+com.example.flutter_app-jetified-window-java-1.0.0-beta04-0 C:\Users\PC\.gradle\caches\transforms-3\48e981a0346d31a6e8dc703f93aac46b\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_app-core-1.6.0-1 C:\Users\PC\.gradle\caches\transforms-3\61a3d0e0172c514700b9d130ee04201c\transformed\core-1.6.0\res
+com.example.flutter_app-jetified-annotation-experimental-1.1.0-2 C:\Users\PC\.gradle\caches\transforms-3\6afc9a3af6a66b6f30dbb8d5999c1736\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_app-jetified-window-1.0.0-beta04-3 C:\Users\PC\.gradle\caches\transforms-3\862f900574f1ff85594dddb260956b71\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_app-debug-4 D:\workshop\flutter_app\android\app\src\debug\res
+com.example.flutter_app-main-5 D:\workshop\flutter_app\android\app\src\main\res
+com.example.flutter_app-pngs-6 D:\workshop\flutter_app\build\app\generated\res\pngs\debug
+com.example.flutter_app-resValues-7 D:\workshop\flutter_app\build\app\generated\res\resValues\debug
+com.example.flutter_app-rs-8 D:\workshop\flutter_app\build\app\generated\res\rs\debug
+com.example.flutter_app-mergeDebugResources-9 D:\workshop\flutter_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_app-mergeDebugResources-10 D:\workshop\flutter_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_app-merged_res-11 D:\workshop\flutter_app\build\app\intermediates\merged_res\debug
